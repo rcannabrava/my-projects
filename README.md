@@ -3,3 +3,7 @@
 > Status do projeto: Em desenvolvimento
 
 Todos os códigos estão em JAVA
+
+```
+node mercado.java
+```
